@@ -1,5 +1,5 @@
 # docxCopier
-Easily copy a docx file to your clipboard through the use of the command-line.<br/>
+docxCopier uses Python to easily copy the text of a docx file to your clipboard.<br/>
 This will copy only the text of the docx file, this does not include images or bulletpoints etc.
 
 ## Dependencies
